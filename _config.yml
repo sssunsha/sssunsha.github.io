@@ -1,6 +1,6 @@
 # Basic
 title: Hello Matthew
-subtitle: Matthew's website will comming soon ...
+subtitle: Matthew's website will coming soon ...
 # welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Matthew is Garfield and Will's deary.
 # creator: <a href="http://onev.cat">@onevcat</a>
@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: purple
 
 # The blog button should not be removed.
 blog_button:
