@@ -1,11 +1,11 @@
 [
-		{"name": "陈爷爷", "photo": "assets/config/phone/cyy.jpg", "tel": "+86 17506101782"},
-		{"name": "陈先明", "photo": "assets/config/phone/cxm.jpg", "tel": "+86 13997555745"},
-		{"name": "陈炜", "photo": "assets/config/phone/cw.jpg", "tel": "+86 18972117114"},
-		{"name": "陈璇璇", "photo": "assets/config/phone/cxx.jpg", "tel": "+86 13476994771"},
-		{"name": "陈佳丽", "photo": "assets/config/phone/cjl.jpg", "tel": "+86 15927964665"},
-		{"name": "孙华东", "photo": "assets/config/phone/shd.jpg", "tel": "+86 13117170084"},
-		{"name": "陈先凤", "photo": "assets/config/phone/cxf.jpg", "tel": "+86 17092847929"},
-		{"name": "孙沙", "photo": "assets/config/phone/ss.jpg", "tel": "+86 15928740176"},
-		{"name": "寒寒", "photo": "assets/config/phone/hh.jpg", "tel": "+86 13402816102"}
+		{"name": "陈爷爷", "photo": "assets/config/phone/cyy.jpg", "tel": "17506101782"},
+		{"name": "陈先明", "photo": "assets/config/phone/cxm.jpg", "tel": "13997555745"},
+		{"name": "陈炜", "photo": "assets/config/phone/cw.jpg", "tel": "18972117114"},
+		{"name": "陈璇璇", "photo": "assets/config/phone/cxx.jpg", "tel": "13476994771"},
+		{"name": "陈佳丽", "photo": "assets/config/phone/cjl.jpg", "tel": "15927964665"},
+		{"name": "孙华东", "photo": "assets/config/phone/shd.jpg", "tel": "13117170084"},
+		{"name": "陈先凤", "photo": "assets/config/phone/cxf.jpg", "tel": "17092847929"},
+		{"name": "孙沙", "photo": "assets/config/phone/ss.jpg", "tel": "15928740176"},
+		{"name": "寒寒", "photo": "assets/config/phone/hh.jpg", "tel": "13402816102"}
 ]
