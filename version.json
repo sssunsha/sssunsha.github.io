@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9",
-  "timestamp": "2026-03-04T09:25:12.957Z",
-  "buildDate": "2026/3/4 17:25:12",
+  "version": "0.0.10",
+  "timestamp": "2026-03-04T09:26:00.705Z",
+  "buildDate": "2026/3/4 17:26:00",
   "packages": {
     "android": null,
     "macos": null
