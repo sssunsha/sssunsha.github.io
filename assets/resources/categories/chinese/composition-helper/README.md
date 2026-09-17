@@ -9,38 +9,43 @@ composition-helper/
 ├── README.md                   # This file
 ├── nav-config.csv              # Navigation structure (categories + items)
 ├── genres/                     # Genre templates (文体)
-│   ├── 写人作文.csv
-│   ├── 记事作文.csv
-│   ├── 写景作文.csv
-│   ├── 状物作文.csv
-│   ├── 想象作文.csv
-│   ├── 读后感.csv
-│   ├── 日记.csv
-│   └── 书信.csv
-├── words/                      # Good words (好词)
-│   ├── 外貌描写.csv
-│   ├── 神态表情.csv
-│   ├── 语言描写.csv
-│   ├── 动作描写.csv
-│   ├── 心理描写.csv
-│   ├── 品质性格.csv
-│   ├── 自然山水.csv
-│   ├── 动物描写.csv
-│   ├── 植物描写.csv
-│   ├── 天气时令.csv
-│   ├── 颜色词汇.csv
-│   ├── 声音描写.csv
-│   └── 味道气味.csv
-└── sentences/                  # Good sentences (好句)
-    ├── 比喻句.csv
-    ├── 拟人句.csv
-    ├── 排比句.csv
-    ├── 夸张句.csv
-    ├── 反问设问句.csv
-    ├── 精彩开头.csv
-    ├── 优美结尾.csv
-    ├── 过渡衔接.csv
-    └── 名人名言.csv
+│   ├── 写人作文.csv            # ┐
+│   ├── 记事作文.csv            # │ 作文分类 (genre-main)
+│   ├── 写景作文.csv            # │
+│   ├── 状物作文.csv            # │
+│   ├── 想象作文.csv            # │
+│   ├── 读后感.csv              # ┘
+│   ├── 日记.csv                # ┐ 其他文体 (genre-other)
+│   └── 书信.csv                # ┘
+├── words/                      # Good words (好词宝库)
+│   ├── 外貌描写.csv            # ┐
+│   ├── 神态表情.csv            # │ 人物类 (words-person)
+│   ├── 语言描写.csv            # │
+│   ├── 动作描写.csv            # │
+│   ├── 心理描写.csv            # │
+│   ├── 品质性格.csv            # ┘
+│   ├── 自然山水.csv            # ┐
+│   ├── 动物描写.csv            # │ 景物类 (words-scene)
+│   ├── 植物描写.csv            # │
+│   ├── 天气时令.csv            # │
+│   ├── 颜色词汇.csv            # │
+│   ├── 声音描写.csv            # │
+│   ├── 味道气味.csv            # ┘
+│   ├── 表示观看.csv            # ┐
+│   ├── 表示说叫.csv            # │ 通用类 (words-general)
+│   └── 成语归类.csv            # ┘
+└── sentences/                  # Good sentences (好句宝库)
+    ├── 比喻句.csv              # ┐
+    ├── 拟人句.csv              # │ 修辞句 (sentences-rhetoric)
+    ├── 排比句.csv              # │
+    ├── 夸张句.csv              # │
+    ├── 反问设问句.csv          # ┘
+    ├── 精彩开头.csv            # ┐
+    ├── 优美结尾.csv            # │ 结构句 (sentences-structure)
+    ├── 过渡衔接.csv            # ┘
+    ├── 家庭亲情.csv            # ┐
+    ├── 校园生活.csv            # │ 主题句 (sentences-theme)
+    └── 名人名言.csv            # ┘
 ```
 
 ## CSV Format Reference
