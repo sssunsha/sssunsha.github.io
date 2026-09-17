@@ -9,38 +9,38 @@ composition-helper/
 ├── README.md                   # This file
 ├── nav-config.csv              # Navigation structure (categories + items)
 ├── genres/                     # Genre templates (文体)
-│   ├── write-person.csv
-│   ├── write-event.csv
-│   ├── write-scenery.csv
-│   ├── write-object.csv
-│   ├── imagination.csv
-│   ├── book-review.csv
-│   ├── diary.csv
-│   └── letter.csv
+│   ├── 写人作文.csv
+│   ├── 记事作文.csv
+│   ├── 写景作文.csv
+│   ├── 状物作文.csv
+│   ├── 想象作文.csv
+│   ├── 读后感.csv
+│   ├── 日记.csv
+│   └── 书信.csv
 ├── words/                      # Good words (好词)
-│   ├── appearance.csv
-│   ├── expression.csv
-│   ├── language.csv
-│   ├── action.csv
-│   ├── psychology.csv
-│   ├── quality.csv
-│   ├── scenery.csv
-│   ├── animal.csv
-│   ├── plant.csv
-│   ├── weather.csv
-│   ├── color.csv
-│   ├── sound.csv
-│   └── taste-smell.csv
+│   ├── 外貌描写.csv
+│   ├── 神态表情.csv
+│   ├── 语言描写.csv
+│   ├── 动作描写.csv
+│   ├── 心理描写.csv
+│   ├── 品质性格.csv
+│   ├── 自然山水.csv
+│   ├── 动物描写.csv
+│   ├── 植物描写.csv
+│   ├── 天气时令.csv
+│   ├── 颜色词汇.csv
+│   ├── 声音描写.csv
+│   └── 味道气味.csv
 └── sentences/                  # Good sentences (好句)
-    ├── metaphor.csv
-    ├── personification.csv
-    ├── parallelism.csv
-    ├── exaggeration.csv
-    ├── rhetorical-question.csv
-    ├── opening.csv
-    ├── ending.csv
-    ├── transition.csv
-    └── famous-quotes.csv
+    ├── 比喻句.csv
+    ├── 拟人句.csv
+    ├── 排比句.csv
+    ├── 夸张句.csv
+    ├── 反问设问句.csv
+    ├── 精彩开头.csv
+    ├── 优美结尾.csv
+    ├── 过渡衔接.csv
+    └── 名人名言.csv
 ```
 
 ## CSV Format Reference
@@ -92,7 +92,7 @@ Defines the left sidebar navigation tree.
 
 ### Example: Adding a new word
 
-Open `words/appearance.csv` and add a row:
+Open `words/外貌描写.csv` and add a row:
 
 ```csv
 五官描写,目光如炬
@@ -100,7 +100,7 @@ Open `words/appearance.csv` and add a row:
 
 ### Example: Adding a new sentence
 
-Open `sentences/metaphor.csv` and add a row:
+Open `sentences/比喻句.csv` and add a row:
 
 ```csv
 描写自然,大海像一面巨大的蓝色镜子。,
@@ -108,6 +108,6 @@ Open `sentences/metaphor.csv` and add a row:
 
 ### Example: Adding a new genre
 
-1. Create a new CSV file in `genres/`, e.g. `genres/application.csv`
+1. Create a new CSV file in `genres/`, e.g. `genres/申请书.csv`
 2. Add rows with `section`, `order`, `content` columns
 3. Add a new row in `nav-config.csv` pointing to this file
