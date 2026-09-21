@@ -18,6 +18,9 @@ sentences,好句,format_quote,sentences-transition,过渡衔接,swap_horiz,#ffe0
 sentences,好句,format_quote,sentences-family,家庭亲情,family_restroom,#f48fb1,sentences/家庭亲情.csv
 sentences,好句,format_quote,sentences-school,校园生活,school,#90caf9,sentences/校园生活.csv
 sentences,好句,format_quote,sentences-famous,名人名言,format_quote,#ffcc80,sentences/名人名言.csv
+sentences,好句,format_quote,sentences-xiehouyu,歇后语,extension,#ce93d8,sentences/歇后语.csv
+sentences,好句,format_quote,sentences-proverbs,俗语谚语,lightbulb,#80cbc4,sentences/俗语谚语.csv
+sentences,好句,format_quote,sentences-poetry,古诗词,menu_book,#ffab91,sentences/古诗词.csv
 words,好词,spellcheck,words-appearance,外貌描写,face,#ef9a9a,words/外貌描写.csv
 words,好词,spellcheck,words-expression,神态表情,mood,#ce93d8,words/神态表情.csv
 words,好词,spellcheck,words-language,语言描写,record_voice_over,#90caf9,words/语言描写.csv
