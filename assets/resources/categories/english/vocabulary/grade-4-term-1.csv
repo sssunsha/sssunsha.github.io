@@ -1,0 +1,163 @@
+id,unit,word,phonics,pronunciation,translation,partOfSpeech,example,exampleTranslation
+1,1,sport,sport,/spɔːt/,运动,n.,I like sport.,我喜欢运动。
+2,1,jump,jump,/dʒʌmp/,跳,v.,I can jump high.,我能跳得很高。
+3,1,high,high,/haɪ/,高高地,adv.,The bird can fly high.,这只鸟能飞得很高。
+4,1,far,far,/fɑː(r)/,远,adv.,How far is the school?,学校有多远？
+5,1,ping-pong,ping|pong,/ˈpɪŋ pɒŋ/,乒乓球运动,n.,I play ping-pong after class.,我下课后打乒乓球。
+6,1,volleyball,vol|ley|ball,/ˈvɒlibɔːl/,排球运动,n.,They play volleyball at school.,他们在学校打排球。
+7,1,first,first,/fɜːst/,最初,adv.,"At first, I was nervous.",起初，我很紧张。
+8,1,at first,at|first,/ət ˈfɜːst/,起初,phrase,"At first, she did not understand.",起初，她不明白。
+9,1,hope,hope,/həʊp/,希望,v.,I hope you can win.,我希望你能获胜。
+10,1,lose,lose,/luːz/,失去；输掉,v.,Do not lose hope.,不要失去希望。
+11,1,because,be|cause,/bɪˈkɒz/,因为,conj.,I am happy because I won.,我很开心因为我赢了。
+12,1,because of,be|cause|of,/bɪˈkɒz əv/,因为某人/某事物,phrase,He is sad because of the rain.,他因为下雨而难过。
+13,1,cancer,can|cer,/ˈkænsə(r)/,癌(症),n.,Cancer is a serious illness.,癌症是一种严重的疾病。
+14,1,across,a|cross,/əˈkrɒs/,横跨,prep.,He swims across the river.,他游过河。
+15,1,money,mon|ey,/ˈmʌni/,钱,n.,I save my money.,我存钱。
+16,1,hard,hard,/hɑːd/,困难的,adj.,The test is hard.,考试很难。
+17,1,kind,kind,/kaɪnd/,友善的,adj.,My teacher is kind.,我的老师很友善。
+18,1,keep,keep,/kiːp/,持续,v.,Keep trying!,继续努力！
+19,1,month,month,/mʌnθ/,月,n.,There are twelve months in a year.,一年有十二个月。
+20,1,ill,ill,/ɪl/,生病的,adj.,She is ill today.,她今天生病了。
+21,1,year,year,/jɪə(r)/,年,n.,Happy New Year!,新年快乐！
+22,1,remember,re|mem|ber,/rɪˈmembə(r)/,记住,v.,Remember to do your homework.,记住做作业。
+23,1,fail,fail,/feɪl/,失败,v.,Do not be afraid to fail.,不要害怕失败。
+24,1,give,give,/ɡɪv/,给予,v.,Please give me a pencil.,请给我一支铅笔。
+25,1,give up,give|up,/ɡɪv ˈʌp/,放弃,phrase,Never give up!,永不放弃！
+26,1,never,nev|er,/ˈnevə(r)/,决不，永不,adv.,I never give up.,我永不放弃。
+27,1,try,try,/traɪ/,努力；尝试,v.,Please try again.,请再试一次。
+28,1,try your best,try|your|best,—,尽最大努力,phrase,"""Try your best, and never give up.""",尽最大努力，永远不要放弃。
+29,1,star,star,/stɑː(r)/,明星；最出色者,n.,She is a star player.,她是一位明星运动员。
+30,1,player,play|er,/ˈpleɪə(r)/,运动员，选手,n.,He is a good player.,他是一名好选手。
+31,1,ability,a|bil|i|ty,/əˈbɪləti/,能力,n.,She has great ability.,她非常有能力。
+32,2,phew,phew,/fjuː/,啊，唷，唉,interj.,Phew! I am tired.,唉！我累了。
+33,2,wash,wash,/wɒʃ/,洗,v.,I wash my hands.,我洗手。
+34,2,dish,dish,/dɪʃ/,盘子，碟子,n.,Please wash the dishes.,请洗盘子。
+35,2,feed,feed,/fiːd/,喂养,v.,I feed my cat every day.,我每天喂我的猫。
+36,2,sweep,sweep,/swiːp/,扫，打扫,v.,I sweep the floor.,我扫地。
+37,2,floor,floor,/flɔː(r)/,地板，地面,n.,The floor is clean.,地板很干净。
+38,2,rubbish,rub|bish,/ˈrʌbɪʃ/,垃圾,n.,Please throw away the rubbish.,请把垃圾扔掉。
+39,2,chore,chore,/tʃɔː(r)/,家庭杂务,n.,Doing chores is important.,做家务很重要。
+40,2,to-do list,to-do|list,/tuː duː lɪst/,待办清单,n.,I have a to-do list.,我有一个待办清单。
+41,2,may,may,/meɪ/,可以,v.,May I come in?,我可以进来吗？
+42,2,outside,out|side,/ˌaʊtˈsaɪd/,在室外,adv.,Let us play outside.,我们去外面玩吧。
+43,2,tidy,ti|dy,/ˈtaɪdi/,整理，收拾,v.,Please tidy your room.,请整理你的房间。
+44,2,easy,easy,/ˈiːzi/,容易的,adj.,This is easy for me.,这对我来说很容易。
+45,2,clean,clean,/kliːn/,清洁的，干净的,adj.,My room is clean.,我的房间很干净。
+46,2,woof,woof,/wʊf/,汪汪（狗吠声）,interj.,The dog says woof.,狗汪汪叫。
+47,2,job,job,/dʒɒb/,任务，事情,n.,Good job!,干得好！
+48,2,good job,good|job,/ɡʊd dʒɒb/,干得好,phrase,"Good job, everyone!",大家干得好！
+49,2,dirty,dir|ty,/ˈdɜːti/,脏的,adj.,My hands are dirty.,我的手很脏。
+50,2,desk,desk,/desk/,书桌，写字台,n.,Sit at your desk.,坐在你的书桌前。
+51,2,wall,wall,/wɔːl/,墙,n.,The picture is on the wall.,画在墙上。
+52,2,again,a|gain,/əˈɡen/,再一次,adv.,Please say it again.,请再说一遍。
+53,2,also,al|so,/ˈɔːlsəʊ/,也，还,adv.,I also like apples.,我也喜欢苹果。
+54,2,sunshine,sun|shine,/ˈsʌnʃaɪn/,阳光,n.,The sunshine is warm.,阳光很温暖。
+55,2,sometimes,some|times,/ˈsʌmtaɪmz/,有时,adv.,Sometimes I read books.,有时我读书。
+56,2,feel,feel,/fiːl/,感受到，觉得,v.,I feel happy.,我感到开心。
+57,2,tired,tired,/ˈtaɪəd/,疲惫的,adj.,I am tired after running.,跑步后我累了。
+58,2,helpful,help|ful,/ˈhelpfl/,有用的，有帮助的,adj.,You are very helpful.,你非常有帮助。
+59,2,warm,warm,/wɔːm/,温暖的,adj.,The sun keeps us warm.,太阳让我们温暖。
+60,2,warm up,warm|up,/wɔːm ʌp/,（使）变暖,phrase,Let us warm up first.,我们先热身吧。
+61,2,water,wa|ter,/ˈwɔːtə(r)/,给……浇水,v.,I water the flowers.,我给花浇水。
+62,2,yard,yard,/jɑːd/,庭院,n.,The dog is in the yard.,狗在院子里。
+63,2,helper,help|er,/ˈhelpə(r)/,帮手；助手,n.,He is my helper.,他是我的帮手。
+64,2,pick,pick,/pɪk/,采，摘,v.,Pick an apple from the tree.,从树上摘一个苹果。
+65,2,pig,pig,/pɪɡ/,猪,n.,The pig is pink.,猪是粉色的。
+66,2,cow,cow,/kaʊ/,母牛；奶牛,n.,The cow eats grass.,奶牛吃草。
+67,2,collect,col|lect,/kəˈlekt/,收集，采集,v.,I collect stamps.,我收集邮票。
+68,2,cut,cut,/kʌt/,修剪,v.,Cut the paper carefully.,小心地剪纸。
+69,2,grass,grass,/ɡrɑːs/,草，青草,n.,The grass is green.,草是绿色的。
+70,2,problem,prob|lem,/ˈprɒbləm/,问题,n.,I have a problem.,我有一个问题。
+71,2,finish,fin|ish,/ˈfɪnɪʃ/,完成，做完,v.,Please finish your homework.,请完成你的作业。
+72,3,weather,weath|er,/ˈweðə(r)/,天气,n.,The weather is nice today.,今天天气很好。
+73,3,sunny,sun|ny,/ˈsʌni/,阳光充足的,adj.,It is sunny outside.,外面阳光充足。
+74,3,cloud,cloud,/klaʊd/,云,n.,The cloud is white.,云是白色的。
+75,3,by,by,/baɪ/,经过,prep.,She walks by the school.,她走过学校。
+76,3,cloudy,cloud|y,/ˈklaʊdi/,多云的，阴天的,adj.,It is cloudy today.,今天是阴天。
+77,3,wind,wind,/wɪnd/,风,n.,The wind blows hard.,风刮得很猛。
+78,3,blow,blow,/bləʊ/,吹，刮,v.,The wind blows the leaves.,风吹动树叶。
+79,3,windy,wind|y,/ˈwɪndi/,风大的,adj.,It is windy today.,今天风很大。
+80,3,rain,rain,/reɪn/,雨,n.,The rain is heavy.,雨下得很大。
+81,3,rainy,rain|y,/ˈreɪni/,多雨的,adj.,It is rainy in spring.,春天多雨。
+82,3,snow,snow,/snəʊ/,雪,n.,We play in the snow.,我们在雪里玩。
+83,3,any,a|ny,/ˈeni/,任何一个,adj.,Do you have any pens?,你有笔吗？
+84,3,cold,cold,/kəʊld/,冷的，寒冷的,adj.,It is cold in winter.,冬天很冷。
+85,3,or,or,/ɔː(r)/,或者,conj.,Do you like apples or oranges?,你喜欢苹果还是橙子？
+86,3,enjoy,en|joy,/ɪnˈdʒɔɪ/,享受……的乐趣,v.,I enjoy reading books.,我喜欢读书。
+87,3,diary,di|a|ry,/ˈdaɪəri/,日记,n.,I write in my diary.,我写日记。
+88,3,special,spe|cial,/ˈspeʃl/,特殊的，特别的,adj.,Today is a special day.,今天是特别的一天。
+89,3,teacher,teach|er,/ˈtiːtʃə(r)/,老师,n.,My teacher is nice.,我的老师很好。
+90,3,taste,taste,/teɪst/,有……的味道,v.,It tastes good.,它味道很好。
+91,3,ice cream,ice|cream,/ˈaɪs kriːm/,冰激凌，雪糕,n.,I like ice cream.,我喜欢冰激凌。
+92,3,real,real,/ˈriːəl/,真的，真正的,adj.,Is this a real story?,这是一个真实的故事吗？
+93,3,later,lat|er,/ˈleɪtə(r)/,之后,adv.,See you later.,回头见。
+94,3,surprise,sur|prise,/səˈpraɪz/,意想不到的事,n.,What a surprise!,真是一个惊喜！
+95,3,coat,coat,/kəʊt/,外套,n.,Wear your coat.,穿上你的外套。
+96,3,turn,turn,/tɜːn/,转身；转动,v.,Turn left at the corner.,在拐角左转。
+97,3,turn on,turn|on,/tɜːn ɒn/,打开,phrase,"Turn on the light, please.",请打开灯。
+98,3,TV,TV,/ˌtiː ˈviː/,电视,n.,I watch TV in the evening.,我晚上看电视。
+99,3,report,re|port,/rɪˈpɔːt/,报道,n.,I watch the weather report.,我看天气预报。
+100,4,season,sea|son,/ˈsiːzn/,季节,n.,There are four seasons.,有四个季节。
+101,4,spring,spring,/sprɪŋ/,春天，春季,n.,Spring is warm.,春天很温暖。
+102,4,summer,sum|mer,/ˈsʌmə(r)/,夏天，夏季,n.,Summer is hot.,夏天很热。
+103,4,autumn,au|tumn,/ˈɔːtəm/,秋天，秋季,n.,Autumn is cool.,秋天很凉爽。
+104,4,winter,win|ter,/ˈwɪntə(r)/,冬天，冬季,n.,Winter is cold.,冬天很冷。
+105,4,favourite,fa|vou|rite,/ˈfeɪvərɪt/,最喜欢的,adj.,My favourite season is spring.,我最喜欢的季节是春天。
+106,4,birthday,birth|day,/ˈbɜːθdeɪ/,生日,n.,Happy birthday to you!,祝你生日快乐！
+107,4,fly,fly,/flaɪ/,放飞,v.,I fly a kite.,我放风筝。
+108,4,fly kites,fly|kites,/flaɪ kaɪts/,放风筝,phrase,We fly kites in spring.,我们在春天放风筝。
+109,4,snowstorm,snow|storm,/ˈsnəʊstɔːm/,雪暴，暴风雪,n.,A snowstorm is coming.,暴风雪要来了。
+110,4,beach,beach,/biːtʃ/,海滩，沙滩,n.,I like the beach.,我喜欢海滩。
+111,4,sea,sea,/siː/,海，海洋,n.,The sea is blue.,海是蓝色的。
+112,4,equator,e|qua|tor,/ɪˈkweɪtə(r)/,赤道,n.,The equator is hot.,赤道很热。
+113,4,round,round,/raʊnd/,循环地,adv.,The seasons go round and round.,季节循环往复。
+114,4,all year round,all|year|round,/ɔːl jɪə raʊnd/,全年,phrase,It is warm all year round.,全年都很温暖。
+115,4,quite,quite,/kwaɪt/,非常，十分,adv.,It is quite cold today.,今天非常冷。
+116,4,join,join,/dʒɔɪn/,参与，加入,v.,Please join us.,请加入我们。
+117,5,bus,bus,/bʌs/,公交车，公共汽车,n.,I go to school by bus.,我乘公交车上学。
+118,5,car,car,/kɑː(r)/,汽车,n.,My dad has a car.,我爸爸有一辆汽车。
+119,5,train,train,/treɪn/,火车，列车,n.,The train is fast.,火车很快。
+120,5,city,cit|y,/ˈsɪti/,城市,n.,Beijing is a big city.,北京是一个大城市。
+121,5,town,town,/taʊn/,镇，城镇,n.,I live in a small town.,我住在一个小镇上。
+122,5,plane,plane,/pleɪn/,飞机,n.,The plane flies in the sky.,飞机在天空飞。
+123,5,sky,sky,/skaɪ/,天，天空,n.,The sky is blue.,天空是蓝色的。
+124,5,ship,ship,/ʃɪp/,大船,n.,The ship sails on the sea.,船在大海上航行。
+125,5,place,place,/pleɪs/,地方，地点,n.,This is a nice place.,这是一个好地方。
+126,5,near,near,/nɪə(r)/,（距离）近的,adj.,The school is near my home.,学校在我家附近。
+127,5,travel,trav|el,/ˈtrævl/,旅行,v.,I like to travel.,我喜欢旅行。
+128,5,way,way,/weɪ/,方式，方法,n.,Show me the way.,给我指路。
+129,5,picnic,pic|nic,/ˈpɪknɪk/,野餐,n.,We have a picnic on Sunday.,我们周日去野餐。
+130,5,minute,min|ute,/ˈmɪnɪt/,分钟,n.,Wait a minute.,等一分钟。
+131,5,wear,wear,/weə(r)/,穿,v.,Wear your hat.,戴上你的帽子。
+132,5,live,live,/lɪv/,住，居住,v.,I live in a house.,我住在一所房子里。
+133,5,away,a|way,/əˈweɪ/,离开，相距,adv.,Go away!,走开！
+134,5,truck,truck,/trʌk/,货车，卡车,n.,The truck is big.,卡车很大。
+135,5,bamboo,bam|boo,/ˌbæmˈbuː/,竹，竹子,n.,Pandas eat bamboo.,熊猫吃竹子。
+136,5,airport,air|port,/ˈeəpɔːt/,机场,n.,We go to the airport by car.,我们乘汽车去机场。
+137,5,bike,bike,/baɪk/,自行车,n.,I ride a bike.,我骑自行车。
+138,5,ring,ring,/rɪŋ/,（钟、铃）鸣响,v.,The bell rings at eight.,八点钟铃响了。
+139,5,beep,beep,/biːp/,（喇叭）鸣响,v.,The car beeps.,汽车鸣笛。
+140,5,subway,sub|way,/ˈsʌbweɪ/,地铁,n.,I take the subway.,我乘地铁。
+141,5,whoosh,whoosh,/wʊʃ/,（呼呼地）飞快移动,interj.,Whoosh! The train goes fast.,嗖！火车开得飞快。
+142,5,tram,tram,/træm/,有轨电车,n.,The tram runs on the road.,有轨电车在路上行驶。
+143,5,chug,chug,/tʃʌɡ/,突突地缓慢前进,v.,The old train chugs along.,老火车突突地向前开。
+144,6,wheel,wheel,/wiːl/,车轮,n.,The car has four wheels.,汽车有四个轮子。
+145,6,left,left,/left/,向左，朝左,adv.,Turn left at the corner.,在拐角处左转。
+146,6,straight,straight,/streɪt/,笔直地,adv.,Go straight ahead.,一直向前走。
+147,6,library,li|brary,/ˈlaɪbreri/,图书馆,n.,I read books in the library.,我在图书馆读书。
+148,6,centre,cen|tre,/ˈsentə(r)/,中心,n.,The shopping centre is big.,购物中心很大。
+149,6,cinema,ci|ne|ma,/ˈsɪnəmə/,电影院,n.,Let us go to the cinema.,我们去电影院吧。
+150,6,hospital,hos|pi|tal,/ˈhɒspɪtl/,医院,n.,The hospital is near here.,医院在这附近。
+151,6,supermarket,su|per|mar|ket,/ˈsuːpəmɑːkɪt/,超市,n.,We buy food at the supermarket.,我们在超市买食物。
+152,6,museum,mu|se|um,/mjuˈziːəm/,博物馆,n.,The museum is interesting.,博物馆很有趣。
+153,6,tomorrow,to|mor|row,/təˈmɒrəʊ/,（在）明天,adv.,See you tomorrow.,明天见。
+154,6,woman,wom|an,/ˈwʊmən/,女性，女人,n.,The woman is my mother.,那个女人是我妈妈。
+155,6,excuse,ex|cuse,/ɪkˈskjuːz/,原谅,v.,"Excuse me, where is the library?",请问，图书馆在哪里？
+156,6,excuse me,ex|cuse|me,/ɪkˈskjuːz miː/,劳驾,phrase,"""Excuse me, may I come in?""",劳驾，我可以进来吗？
+157,6,wish,wish,/wɪʃ/,希望，愿望,n.,Make a wish.,许个愿吧。
+158,6,true,true,/truː/,真的，真实的,adj.,The story is true.,故事是真的。
+159,6,step,step,/step/,步,n.,Take a step forward.,向前走一步。
+160,6,own,own,/əʊn/,自己的,adj.,This is my own book.,这是我自己的书。
+161,6,cross,cross,/krɒs/,横穿,v.,Cross the street carefully.,小心过马路。
+162,6,careful,care|ful,/ˈkeəfl/,谨慎的,adj.,Be careful when you cross.,过马路时要小心。

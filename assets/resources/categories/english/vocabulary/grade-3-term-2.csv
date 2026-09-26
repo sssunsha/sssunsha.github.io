@@ -1,0 +1,201 @@
+id,unit,word,phonics,pronunciation,translation,partOfSpeech,example,exampleTranslation
+1,1,animal,a|ni|mal,,动物,n.,I love animals.,我喜欢动物。
+2,1,panda,pan|da,,大熊猫,n.,Pandas are from China.,熊猫来自中国。
+3,1,elephant,e|le|ph|a|nt,,象,n.,Elephants are very big.,大象非常大。
+4,1,bear,bear,,熊,n.,Bears live in the forest.,熊生活在森林里。
+5,1,giraffe,gi|raffe,,长颈鹿,n.,Giraffes have long necks.,长颈鹿有长脖子。
+6,1,monkey,mon|key,,猴,n.,Monkeys like bananas.,猴子喜欢香蕉。
+7,1,them,th|em,,他们；她们；它们,pron.,I like them.,我喜欢他们。
+8,1,draw,dr|aw,,画，绘画,v.,I can draw a picture.,我会画画。
+9,1,tiger,ti|ger,,老虎，虎,n.,Tigers are dangerous.,老虎很危险。
+10,1,strong,str|ong,,强壮的，力气大的,adj.,He is very strong.,他很强壮。
+11,1,short,sh|ort,,个子矮的,adj.,He is short.,他很矮。
+12,1,white,wh|ite,,白的，白色的,adj.,The snow is white.,雪是白色的。
+13,1,brown,br|own,,棕色的；褐色的,adj.,The bear is brown.,熊是棕色的。
+14,1,tall,tall,,高的，高大的,adj.,He is very tall.,他很高。
+15,1,him,him,,他；它（指雄性动物）,pron.,I see him.,我看见他。
+16,1,ostrich,os|tr|ich,,鸵鸟,n.,Ostriches can run fast.,鸵鸟跑得很快。
+17,1,fast,fast,,快的，快速的,adj.,He runs fast.,他跑得快。
+18,1,chameleon,cha|me|le|on,,变色龙,n.,Chameleons can change colors.,变色龙能变色。
+19,1,small,sm|all,,小的,adj.,The ant is very small.,蚂蚁很小。
+20,1,lion,li|on,,狮子,n.,The lion is the king of animals.,狮子是百兽之王。
+21,1,cute,cute,,可爱的，漂亮的，逗人喜爱的,adj.,What a cute baby!,多可爱的宝宝！
+22,1,out,out,,往外，向外，出来,adv.,Come out!,出来！
+23,1,zoo,zoo,,动物园,n.,Let's go to the zoo.,让我们去动物园吧。
+24,1,go,go,,走，去,v.,Let's go!,我们走吧！
+25,1,zebra,ze|bra,,斑马,n.,Zebras have black and white stripes.,斑马有黑白条纹。
+26,1,move,move,,移动,v.,Don't move!,别动！
+27,1,road,r|oa|d,,路，道路,n.,Be careful on the road.,在路上要小心。
+28,1,dance,dan|ce,,跳舞,v.,Let's dance!,让我们跳舞吧！
+29,1,along,a|long,,一起,adv.,Come along with me.,跟我一起来。
+30,1,which,wh|ich,,哪一个；哪些,pron.,Which book do you want?,你想要哪本书？
+31,1,word,word,,字，词，单词,n.,What's this word?,这个单词是什么？
+32,1,stone,st|one,,石头,n.,Don't throw stones.,别扔石头。
+33,1,hat,hat,,帽子,n.,I like this hat.,我喜欢这顶帽子。
+34,1,shoe,sh|oe,,鞋,n.,These are my shoes.,这些是我的鞋。
+35,2,body,bo|dy,,身体,n.,Exercise your body.,锻炼你的身体。
+36,2,head,h|ea|d,,头，头部,n.,Nod your head.,点头。
+37,2,eye,eye,,眼睛,n.,I have two eyes.,我有两只眼睛。
+38,2,ear,ear,,耳朵,n.,I can hear with my ears.,我用耳朵听。
+39,2,mouth,m|ou|th,,嘴，口,n.,Open your mouth.,张开你的嘴。
+40,2,nose,n|ose,,鼻子,n.,I can smell with my nose.,我用鼻子闻。
+41,2,touch,t|ou|ch,,触摸，碰,v.,Don't touch it.,别碰它。
+42,2,hand,hand,,手,n.,Wash your hands.,洗手。
+43,2,arm,arm,,手臂，上肢,n.,Raise your arm.,举起你的手臂。
+44,2,leg,leg,,腿,n.,I have two legs.,我有两条腿。
+45,2,foot,f|oo|t,,（复数feet）脚,n.,I hurt my foot.,我的脚受伤了。
+46,2,toe,toe,,脚趾,n.,I have ten toes.,我有十个脚趾。
+47,2,get,get,,获得，得到,v.,Get your book.,拿你的书。
+48,2,snowy,sn|ow|y,,多雪的，积雪的,adj.,It's a snowy day.,今天是下雪天。
+49,2,child,ch|ild,,（复数children）儿童，小孩,n.,The child is playing.,这个孩子在玩。
+50,2,work,work,,事情，工作,n.,I have work to do.,我有工作要做。
+51,2,snowman,snow|man,,雪人,n.,Let's make a snowman.,让我们堆个雪人。
+52,2,long,long,,长的,adj.,The river is very long.,这条河很长。
+53,2,rock,rock,,石头，石子,n.,There are many rocks here.,这里有很多石头。
+54,2,cool,c|oo|l,,时髦的，酷的,adj.,You look cool!,你看起来很酷！
+55,2,best,best,,最好的,adj.,You are the best!,你是最棒的！
+56,2,part,part,,器官；部位；组成部分,n.,This is an important part.,这是重要的部分。
+57,2,well,well,,嘿，这个；健康的,interj./adj.,I'm very well.,我很好。
+58,2,hear,h|ear,,听见,v.,I can hear you.,我能听见你。
+59,2,smell,sm|ell,,闻到，嗅到,v.,I can smell the flowers.,我能闻到花香。
+60,2,talk,talk,,说话,v.,Don't talk in class.,课堂上别说话。
+61,2,eat,eat,,吃,v.,I eat breakfast every day.,我每天吃早餐。
+62,2,hey,hey,,嘿，嗨,interj.,"Hey, wait for me!",嘿，等等我！
+63,2,stop,st|op,,停止，终止,v.,Stop talking!,别说话了！
+64,2,important,im|por|tant,,重要的，重大的,adj.,This is very important.,这很重要。
+65,2,team,t|ea|m,,队,n.,I'm in the football team.,我在足球队。
+66,2,dream,dr|eam,,梦,n.,I had a good dream.,我做了个好梦。
+67,2,ask,ask,,问，提问,v.,Can I ask a question?,我能问个问题吗？
+68,2,answer,an|swer,,回答，答复,v.,Please answer the question.,请回答问题。
+69,2,hair,hair,,头发,n.,She has long hair.,她有长头发。
+70,2,different,dif|fer|ent,,不同的，不一样的，有差异的,adj.,We are different.,我们是不同的。
+71,2,face,face,,脸,n.,Wash your face.,洗你的脸。
+72,3,yummy,yum|my,,美味的，很好吃的,adj.,This cake is yummy!,这个蛋糕真好吃！
+73,3,food,f|oo|d,,食物,n.,I like Chinese food.,我喜欢中国菜。
+74,3,strawberry,str|aw|ber|ry,,草莓,n.,Strawberries are red.,草莓是红色的。
+75,3,tomato,to|ma|to,,番茄，西红柿,n.,Tomatoes are healthy.,西红柿很健康。
+76,3,noodles,n|oo|dles,,（一般用复数）面条,n.,I want noodles.,我想吃面条。
+77,3,carrot,car|rot,,胡萝卜,n.,Carrots are orange.,胡萝卜是橙色的。
+78,3,chicken,ch|ick|en,,鸡肉；鸡,n.,I like chicken.,我喜欢鸡肉。
+79,3,fish,f|ish,,鱼肉；鱼,n.,Fish is healthy food.,鱼是健康食品。
+80,3,rice,r|ice,,米；米饭,n.,We eat rice every day.,我们每天吃米饭。
+81,3,meat,m|eat,,肉,n.,This meat is delicious.,这肉很美味。
+82,3,fruit,fr|uit,,水果,n.,I like fresh fruit.,我喜欢新鲜水果。
+83,3,vegetable,veg|e|ta|ble,,蔬菜,n.,Eat more vegetables.,多吃蔬菜。
+84,3,salad,sal|ad,,沙拉,n.,I want a salad.,我想要一份沙拉。
+85,3,banana,ba|na|na,,香蕉,n.,Bananas are yellow.,香蕉是黄色的。
+86,3,bean,b|ean,,豆子,n.,Green beans are good.,绿豆很好。
+87,3,cucumber,cu|cum|ber,,黄瓜,n.,Cucumbers are green.,黄瓜是绿色的。
+88,3,then,th|en,,那么；然后，接下来,adv.,"First study, then play.",先学习，然后玩。
+89,3,about,a|b|out,,关于,prep.,Tell me about your day.,告诉我你今天的事。
+90,3,what about...,,,......怎么样,,What about you?,你呢？
+91,3,grape,gr|ape,,葡萄,n.,Grapes are sweet.,葡萄很甜。
+92,3,juice,j|ui|ce,,汁,n.,I want orange juice.,我想要橙汁。
+93,3,why,wh|y,,为什么,adv.,Why are you late?,你为什么迟到？
+94,3,early,ear|ly,,提早，提前；早的,adv./adj.,Get up early.,早点起床。
+95,3,breakfast,break|fast,,早餐，早饭,n.,I eat breakfast at 7.,我七点吃早餐。
+96,3,time,t|ime,,时间,n.,What time is it?,几点了？
+97,3,still,st|ill,,还，仍然,adv.,It's still raining.,还在下雨。
+98,3,ready,r|ea|dy,,准备好的,adj.,Are you ready?,你准备好了吗？
+99,3,corn,c|orn,,玉米,n.,I like corn.,我喜欢玉米。
+100,3,lunch,l|un|ch,,午餐,n.,What's for lunch?,午餐吃什么？
+101,3,very,ver|y,,很，非常,adv.,I'm very happy.,我非常高兴。
+102,3,much,m|u|ch,,非常,adv.,Thank you very much.,非常感谢你。
+103,3,very much,,,非常,,I like it very much.,我非常喜欢它。
+104,3,afternoon,af|ter|noon,,下午，午后,n.,Good afternoon!,下午好！
+105,3,tea,tea,,茶；茶叶,n.,I like tea.,我喜欢茶。
+106,3,afternoon tea,,,下午茶,,Let's have afternoon tea.,让我们喝下午茶吧。
+107,3,every,ev|er|y,,每，每逢，每隔,adj.,I study every day.,我每天学习。
+108,3,week,week,,星期，周,n.,There are seven days in a week.,一周有七天。
+109,3,tree,tr|ee,,树,n.,Plant a tree.,种一棵树。
+110,3,milk,milk,,奶，牛奶,n.,Drink your milk.,喝你的牛奶。
+111,3,cupcake,cup|cake,,杯形蛋糕,n.,I want a cupcake.,我想要一个杯形蛋糕。
+112,3,sandwich,sand|wich,,三明治，夹心面包,n.,I like sandwiches.,我喜欢三明治。
+113,3,beef,b|ee|f,,牛肉,n.,This beef is delicious.,这牛肉很美味。
+114,3,dumpling,dum|pl|ing,,水饺,n.,I love dumplings.,我喜欢饺子。
+115,3,hot,hot,,热的,adj.,The soup is hot.,汤很热。
+116,3,hot dog,,,热狗,,I want a hot dog.,我想要热狗。
+117,3,sushi,su|sh|i,,寿司,n.,I like sushi.,我喜欢寿司。
+118,3,cake,cake,,蛋糕,n.,This cake is yummy!,这个蛋糕真好吃！
+119,4,hobby,hob|by,,业余爱好，嗜好,n.,My hobby is reading.,我的爱好是阅读。
+120,4,free,fr|ee,,空闲的，有空的,adj.,Are you free today?,你今天有空吗？
+121,4,after,af|ter,,在......后,prep.,"After school, let's play.",放学后，让我们玩吧。
+122,4,swim,sw|im,,游泳,v.,I can swim.,我会游泳。
+123,4,lot,lot,,许多,n.,I have a lot of books.,我有很多书。
+124,4,a lot,,,大量，许多,,Thank you a lot.,非常感谢你。
+125,4,these,th|ese,,这些（this的复数形式）,pron.,These are my books.,这些是我的书。
+126,4,tai chi,,,太极,,I practice tai chi.,我练太极。
+127,4,his,his,,他的,pron.,This is his book.,这是他的书。
+128,4,insect,in|sect,,昆虫,n.,Ants are insects.,蚂蚁是昆虫。
+129,4,man,man,,成年男子，男人,n.,That man is my father.,那个男人是我的父亲。
+130,4,learn,l|earn,,学习,v.,I learn English.,我学英语。
+131,4,plant,pl|ant,,植物,n.,Water the plants.,给植物浇水。
+132,4,when,wh|en,,什么时候,adv.,When is your birthday?,你的生日是什么时候？
+133,4,question,qu|es|tion,,问题，疑问,n.,Can I ask a question?,我能问个问题吗？
+134,4,watch,w|a|tch,,观察,v.,Watch the birds.,观察鸟儿。
+135,4,study,st|u|dy,,研究；仔细察看,v.,Study hard!,努力学习！
+136,4,mantis,man|tis,,螳螂,n.,The mantis is green.,螳螂是绿色的。
+137,4,stay,st|ay,,停留，逗留，留下,v.,Stay here.,待在这里。
+138,4,interesting,in|ter|est|ing,,有趣的，吸引人的,adj.,This book is interesting.,这本书很有趣。
+139,4,grow,gr|ow,,成长，长大,v.,Plants grow quickly.,植物长得快。
+140,4,grow up,,,长大,,I want to grow up.,我想长大。
+141,4,country,coun|try,,国家,n.,China is a big country.,中国是个大国。
+142,4,robot,ro|bot,,机器人,n.,I have a toy robot.,我有个玩具机器人。
+143,4,kite,k|ite,,风筝,n.,Fly a kite.,放风筝。
+144,4,skate,sk|ate,,滑冰，溜冰,v.,I can skate.,我会滑冰。
+145,4,ice,ice,,冰,n.,The ice is cold.,冰很冷。
+146,4,ski,ski,,滑雪,v.,I can ski.,我会滑雪。
+147,4,garden,gar|den,,做园艺工作；花园,v./n.,I like to garden.,我喜欢做园艺。
+148,5,tick-tock,,,嘀嗒声,,Tick-tock goes the clock.,钟表嘀嗒嘀嗒响。
+149,5,tell,tell,,告诉，告知,v.,Tell me a story.,给我讲个故事。
+150,5,clock,cl|ock,,时钟,n.,Look at the clock.,看看钟表。
+151,5,o'clock,,,点钟,,It's three o'clock.,三点钟了。
+152,5,fifteen,fif|teen,,十五,num.,I have fifteen books.,我有十五本书。
+153,5,thirty,th|ir|ty,,三十,num.,I'm thirty years old.,我三十岁了。
+154,5,forty-five,,,四十五,num.,It's forty-five minutes.,四十五分钟。
+155,5,dinner,din|ner,,正餐，主餐,n.,Dinner is ready.,晚餐准备好了。
+156,5,half,half,,一半，半,n.,Half past two.,两点半。
+157,5,past,past,,晚于；在......之后,prep.,It's ten past five.,五点十分。
+158,5,half past one / two...,,,1点半/2点半等,,It's half past three.,三点半。
+159,5,urgh,urgh,,呃，呸,interj.,"Urgh, that's terrible!",呃，太糟糕了！
+160,5,homework,home|work,,家庭作业，功课,n.,Do your homework.,做你的作业。
+161,5,need,n|ee|d,,需要,v.,I need help.,我需要帮助。
+162,5,activity,ac|tiv|i|ty,,活动,n.,We have many activities.,我们有很多活动。
+163,5,her,her,,她的,pron.,This is her book.,这是她的书。
+164,5,class,cl|ass,,课；班级,n.,Our class is very big.,我们的班级很大。
+165,5,evening,eve|ning,,傍晚；晚上,n.,Good evening!,晚上好！
+166,5,call,call,,（给......）打电话,v.,Call me later.,稍后给我打电话。
+167,6,Monday,Mon|day,,星期一,n.,Today is Monday.,今天是星期一。
+168,6,Tuesday,Tues|day,,星期二,n.,Tomorrow is Tuesday.,明天是星期二。
+169,6,Wednesday,Wed|nes|day,,星期三,n.,Wednesday comes after Tuesday.,星期三在星期二之后。
+170,6,Thursday,Th|urs|day,,星期四,n.,Thursday is the fourth day.,星期四是第四天。
+171,6,Friday,Fri|day,,星期五,n.,Friday is my favorite day.,星期五是我最喜欢的一天。
+172,6,Saturday,Sat|ur|day,,星期六,n.,I don't go to school on Saturday.,我星期六不上学。
+173,6,Sunday,Sun|day,,星期日,n.,Sunday is a rest day.,星期天是休息日。
+174,6,park,park,,公园,n.,Let's go to the park.,让我们去公园吧。
+175,6,visit,vis|it,,看望，拜访,v.,Visit your grandparents.,去看望你的祖父母。
+176,6,lesson,les|son,,课，课程,n.,We have three lessons today.,我们今天有三节课。
+177,6,football,foot|ball,,足球,n.,Play football.,踢足球。
+178,6,art,art,,美术，艺术,n.,I love art class.,我喜欢美术课。
+179,6,subject,sub|ject,,学科,n.,What's your favorite subject?,你最喜欢什么科目？
+180,6,maths,m|a|ths,,数学,n.,Math is interesting.,数学很有趣。
+181,6,science,sci|ence,,科学,n.,Science is fun.,科学很有趣。
+182,6,something,some|th|ing,,某物；某事,pron.,I want something to eat.,我想吃点东西。
+183,6,idea,i|de|a,,想法，主意,n.,That's a good idea!,这是个好主意！
+184,6,soon,s|oo|n,,不久，即刻，很快,adv.,See you soon.,回头见。
+185,6,teach,t|ea|ch,,教，教授,v.,I teach English.,我教英语。
+186,6,English,Eng|l|ish,,英语,n.,I learn English.,我学英语。
+187,6,card,card,,卡片,n.,I send a card.,我寄一张卡片。
+188,6,busy,bus|y,,忙的，忙碌的,adj.,I'm very busy.,我很忙。
+189,6,old,old,,年老的；相识很久的,adj.,My grandpa is old.,我爷爷年纪大了。
+190,6,some,some,,一些，若干,det.,I have some apples.,我有一些苹果。
+191,6,bookmark,book|mark,,书签,n.,I use a bookmark.,我用书签。
+192,6,stick,st|ick,,木棍，拐杖,n.,The old man has a stick.,老人有根拐杖。
+193,6,sure,sure,,当然，好的,adv.,"Sure, I can help.",当然，我能帮忙。
+194,6,flower,fl|ow|er,,花，花朵,n.,The flower is beautiful.,这花很美。
+195,6,afterschool,af|ter|school,,课外的,adj.,I have afterschool activities.,我有课外活动。
+196,6,club,cl|ub,,俱乐部,n.,I'm in the art club.,我在美术俱乐部。
+197,6,piano,pi|an|o,,钢琴,n.,Play the piano.,弹钢琴。
+198,6,basketball,bas|ket|ball,,篮球,n.,Play basketball.,打篮球。
+199,6,computer,com|pu|ter,,计算机；电脑,n.,Use the computer.,使用电脑。
+200,6,music,mu|sic,,音乐,n.,I love music.,我喜欢音乐。
